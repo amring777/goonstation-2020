@@ -81,7 +81,7 @@
 	var/disableResourceCache = 0
 
 	//Map switching stuff
-	var/allow_map_switching = 0
+	var/allow_map_switching = 1
 
 	//Round min players
 	var/blob_min_players = 0

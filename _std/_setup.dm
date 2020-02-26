@@ -470,7 +470,7 @@ var/list/RARITY_COLOR = list(
 
 //   HOLIDAYS
 // #define HALLOWEEN 1
-#define XMAS 1
+//#define XMAS 1
 //#define CANADADAY 1
 
 // so that you can move things around easily, in theory

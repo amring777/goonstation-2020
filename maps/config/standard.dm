@@ -1,4 +1,4 @@
-#include "..\cogmap2.dmm"
+#include "..\cogmap_new_walls.dmm"
 #include "..\z2.dmm"
 #include "..\z3.dmm"
 #include "..\z4.dmm"

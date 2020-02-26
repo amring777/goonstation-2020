@@ -1,5 +1,5 @@
 <h1>A Goonstation server!</h1>
-<i>Servers managed by Wire.</i><br>
+<i>Servers managed by Vulkarl.</i><br>
 Need to talk over radio? '<b>say ;your message</b>'<br>
 Got a question about game mechanics? Use <b>mentorhelp (F3)</b> or consult the <a href="https://wiki.ss13.co/">wiki</a>.<br>
 Got a problem? Use <b>adminhelp (F1)</b> if you want to complain about it, not deadchat or OOC.</b><br>

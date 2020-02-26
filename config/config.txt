@@ -20,7 +20,7 @@ LOG_GAME
 # default probablity is 1, increase to make that mode more likely to be picked
 # set to 0 to disable that mode
 PROBABILITY ALIEN 0
-PROBABILITY BLOB 4
+PROBABILITY BLOB 0
 PROBABILITY CHANGELING 6
 PROBABILITY DISASTER 0
 PROBABILITY EXTENDED 0
